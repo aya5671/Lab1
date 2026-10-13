@@ -1,1 +1,12 @@
 Name : Eng.Ayatalla Moustafa
+Skill : Bad skill
+
+git add .
+git commit -m "Cv added"
+
+git add .
+git commit --amend -m "changes made"
+
+git add .
+git commit -m "Skill added"
+git reset HEAD^
